@@ -1,4 +1,4 @@
 # 5262136_Jayasakthi-Subramanian
 ![](SDLC/agilescreenshot.png)
-![](Git/certificate/Git simplilearn certificate.jpg)
+![](Git/certificate/git training simplilearn certificate.jpg)
 
