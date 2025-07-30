@@ -12,5 +12,8 @@
 ![](https://github.com/Jayasakthi04/5262136_Jayasakthi-Subramanian/blob/4cebfecc6bae8c80688995e794802c9c79abbbf2/Linux/commandlinuxscreenshot/command%20linux9.png)
 ![](https://github.com/Jayasakthi04/5262136_Jayasakthi-Subramanian/blob/4cebfecc6bae8c80688995e794802c9c79abbbf2/Linux/commandlinuxscreenshot/command%20linux10.png)
 ![](https://github.com/Jayasakthi04/5262136_Jayasakthi-Subramanian/blob/4cebfecc6bae8c80688995e794802c9c79abbbf2/Linux/commandlinuxscreenshot/command%20linux11.png)
+![](https://github.com/Jayasakthi04/5262136_Jayasakthi-Subramanian/blob/e450de441e2cc3209e2f0ae39e873a29af851885/Linux/commandlinuxscreenshot/command%20linux12.png)
+![](https://github.com/Jayasakthi04/5262136_Jayasakthi-Subramanian/blob/e450de441e2cc3209e2f0ae39e873a29af851885/Linux/commandlinuxscreenshot/command%20linux13.png)
+![](https://github.com/Jayasakthi04/5262136_Jayasakthi-Subramanian/blob/e450de441e2cc3209e2f0ae39e873a29af851885/Linux/commandlinuxscreenshot/command%20linux14.png)
 
 
