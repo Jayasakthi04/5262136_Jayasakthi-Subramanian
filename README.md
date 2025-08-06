@@ -16,7 +16,8 @@
 ![](https://github.com/Jayasakthi04/5262136_Jayasakthi-Subramanian/blob/e450de441e2cc3209e2f0ae39e873a29af851885/Linux/commandlinuxscreenshot/command%20linux12.png)
 ![](https://github.com/Jayasakthi04/5262136_Jayasakthi-Subramanian/blob/e450de441e2cc3209e2f0ae39e873a29af851885/Linux/commandlinuxscreenshot/command%20linux13.png)
 ![](https://github.com/Jayasakthi04/5262136_Jayasakthi-Subramanian/blob/e450de441e2cc3209e2f0ae39e873a29af851885/Linux/commandlinuxscreenshot/command%20linux14.png)
+![](https://github.com/Jayasakthi04/5262136_Jayasakthi-Subramanian/blob/b739d8a8f70c9cd25a03fa0ad37ab27373581889/C%20program/Certificates/C%20Certificate(BEGINNER).jpg)
 ![](https://github.com/Jayasakthi04/5262136_Jayasakthi-Subramanian/blob/9163a82e3ad545e4f62b85f91279db691fb29f13/C%20program/Certificates/C%20Certificate%20(INTERMEDIATE).jpg)
-![](https://github.com/Jayasakthi04/5262136_Jayasakthi-Subramanian/blob/be2d99e5d0e1aeec6c5d72c6a8618a698f7bfdaf/C%20program/Certificates/Intermediate%20c%20certificate.jpg)
+
 
 
